@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Einladung zur Abschlussfeier</title>
+</head>
+<body>
+    <!-- Titel und Beschreibung der Einladung -->
+    <h1>Einladung zur Abschlussfeier</h1>
+    <p>Mittelschule Straden - Klassen 4a und 4b</p>
+    <!-- Platz für ein Bild (z.B. das Logo der Schule) -->
+    <img src="pfad/zum/bild.jpg" alt="Schullogo" style="width: 200px;">
+    
+    <!-- Details zur Veranstaltung in einer Tabelle -->
+    <h2>Details zur Veranstaltung</h2>
+    <table>
+        <tr>
+            <th>Datum</th>
+            <td>Freitag, 05. Juli 2024</td>
+        </tr>
+        <tr>
+            <th>Uhrzeit</th>
+            <td>18:00 Uhr</td>
+        </tr>
+        <tr>
+            <th>Ort</th>
+            <td>Turnhalle der Mittelschule Straden</td>
+        </tr>
+    </table>
+    
+    <!-- Einladungstext -->
+    <p>Liebe Eltern, Lehrer und Schüler,</p>
+    <p>wir freuen uns, Sie zur Abschlussfeier der Klassen 4a und 4b der Mittelschule Straden einzuladen. Feiern Sie mit uns diesen besonderen Moment und genießen Sie ein unterhaltsames Programm, vorbereitet von unseren Schülern.</p>
+    <p>Wir freuen uns auf Ihr Kommen!</p>
+    
+    <!-- Kontaktinformation -->
+    <p>Kontakt: <a href="mailto:info@mittelschule-straden.at">info@mittelschule-straden.at</a></p>
+    <!-- Platz für ein weiteres Bild (z.B. Gruppenfoto der Schüler) -->
+    <img src="pfad/zum/weiteren-bild.jpg" alt="Gruppenfoto" style="width: 300px;">
+</body>
+</html>
